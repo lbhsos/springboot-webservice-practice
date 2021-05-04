@@ -3,27 +3,43 @@ com/bohyunlee/web/dto/PostsSaveRequestDto.java
  com.bohyunlee.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
 com/bohyunlee/web/dto/PostsResponseDto.java
  com.bohyunlee.web.dto.PostsResponseDto
-com/bohyunlee/web/dto/HelloResponseDto.java
- com.bohyunlee.web.dto.HelloResponseDto
+com/bohyunlee/domain/user/Role.java
+ com.bohyunlee.domain.user.Role
 com/bohyunlee/web/dto/PostsUpdateRequestDto.java
  com.bohyunlee.web.dto.PostsUpdateRequestDto
  com.bohyunlee.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
-com/bohyunlee/web/HelloController.java
- com.bohyunlee.web.HelloController
+com/bohyunlee/config/auth/dto/SessionUser.java
+ com.bohyunlee.config.auth.dto.SessionUser
+com/bohyunlee/web/dto/PostsListResponseDto.java
+ com.bohyunlee.web.dto.PostsListResponseDto
 com/bohyunlee/domain/posts/Posts.java
  com.bohyunlee.domain.posts.Posts
  com.bohyunlee.domain.posts.Posts$PostsBuilder
 com/bohyunlee/domain/BaseTimeEntity.java
  com.bohyunlee.domain.BaseTimeEntity
-com/bohyunlee/Application.java
- com.bohyunlee.Application
-com/bohyunlee/domain/posts/PostsRepository.java
- com.bohyunlee.domain.posts.PostsRepository
-com/bohyunlee/web/dto/PostsListResponseDto.java
- com.bohyunlee.web.dto.PostsListResponseDto
-com/bohyunlee/web/IndexController.java
- com.bohyunlee.web.IndexController
+com/bohyunlee/web/dto/HelloResponseDto.java
+ com.bohyunlee.web.dto.HelloResponseDto
 com/bohyunlee/service/PostsService.java
  com.bohyunlee.service.PostsService
+com/bohyunlee/domain/user/UserRepository.java
+ com.bohyunlee.domain.user.UserRepository
 com/bohyunlee/web/PostsApiController.java
  com.bohyunlee.web.PostsApiController
+com/bohyunlee/domain/posts/PostsRepository.java
+ com.bohyunlee.domain.posts.PostsRepository
+com/bohyunlee/config/auth/dto/OAuthAttributes.java
+ com.bohyunlee.config.auth.dto.OAuthAttributes
+ com.bohyunlee.config.auth.dto.OAuthAttributes$OAuthAttributesBuilder
+com/bohyunlee/domain/user/User.java
+ com.bohyunlee.domain.user.User
+ com.bohyunlee.domain.user.User$UserBuilder
+com/bohyunlee/web/HelloController.java
+ com.bohyunlee.web.HelloController
+com/bohyunlee/web/IndexController.java
+ com.bohyunlee.web.IndexController
+com/bohyunlee/Application.java
+ com.bohyunlee.Application
+com/bohyunlee/config/auth/CustomOAuth2UserService.java
+ com.bohyunlee.config.auth.CustomOAuth2UserService
+com/bohyunlee/config/auth/SecurityConfig.java
+ com.bohyunlee.config.auth.SecurityConfig
